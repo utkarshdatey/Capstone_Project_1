@@ -1,0 +1,63 @@
+Que 1. How many defaulter has tertiary education ?
+Ans:   17 out of 4521
+Interpret : Risk of default is low in group of people who done tertiary education. In this group people who are 'Single'
+are have high percentage of default.
+
+Que 2. How many people having avg. yearly balance less than -300 and in job ?
+Ans:   149 out of 4521
+Interpret : People who has avg. yearly balance less than -300 but still in job are having very poor in money
+managment and investment.
+
+Que 3. How many people in Managment profession but still taking the loan ?
+Ans:   120 out of 4521
+Interpret: People who are in Managment profession are less in no. of taking loan.
+It indicate they are utilize there knowledge to manage there expense and investment.
+
+Que 4. How many enterpreneur are taking loan and how many are not ?
+Ans:   127 out of 4521 are not taking loan and 47 out of 4521
+Interpret: Enterpreneurship are popular in between investor and if they impress by your idea they are ready to invest
+in your idea to implement it.
+
+Que 5. How many retired people ?
+Ans:   230 out of 4521.
+Interpret: There are 230 retired people are there.
+
+Que 6. How many retired people are having loan ?
+Ans:   32 out of 230.
+Interpret: There are 32 retired are loan for some reason.
+
+Que 7. How many retired who take house loan ?
+Ans:   13 out of 32.
+Interpret: There are 13 retired who take house loan in retirement.
+
+Que 8. How many self-employed are there and take loan ?
+Ans:   183 out of 4521 self-employed, 30 out of 183 has loan.
+Interpret: There are 183 self-employed and 30 has take loan.
+
+Que 9. How many in self-employed are default ?
+Ans:   4 out of 30.
+Interpret: It indicate only minimal no. of self-employed are take loan and out that only few percentage are default.
+
+Que 10. How many admin have not take loan yet but have house loan?
+Ans:    387 out of 4521 and 246 out of 387.
+Interpret: 387 admin are not having any personal loan but having house loan.
+
+Que 11. Admin have house loan how many of them are married ?
+Ans:    131 out of 246.
+Interpret: 131 admin are married. Hence they put house on priority for family.
+
+Que 12. How many housemaid take loan and how many not ?
+Ans:    13 out of 112 are take loan and 99 out 122 are not take loan.
+Interpret: No. of housemaid who take loan is less, reason could be there financial condition is not stable.
+
+Que 13. How many student are there and how many are married ?
+Ans:    84 out of 4521 and 10 out of 84 are married.
+Interpret: 10 student are married indicate they are in younger age.
+
+Que 14. How many married student have house loan ?
+Ans:    4 out of 10.
+Interpret: 4 married studen have house loan for there family.
+
+Que 15. How many technician have personal and house loan.
+Ans:    73 out of 768.
+Interpret: 73 technician are having both personal and house loan 
